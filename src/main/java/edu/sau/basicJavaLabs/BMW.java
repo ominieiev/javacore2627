@@ -21,7 +21,7 @@ public class BMW {
     }
 
     public String makeSignal(){
-        return "bee-bee";
+        return "fa-fa";
 
     }
 }
